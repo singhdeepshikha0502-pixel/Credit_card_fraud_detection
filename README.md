@@ -151,5 +151,4 @@ This dashboard uses the model outputs (`risk_score`, `risk_bucket`) to monitor f
 - 🏷 A small number of **merchants & categories repeatedly appear** in fraud — indicating repeat fraud patterns.
 
 ---
-🔗 LinkedIn: https://www.linkedin.com/in/preetika20/
 
